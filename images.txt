@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-nginx:1.26.1
+# openlitespeed 仅 server，不含 wordpress
+litespeedtech/openlitespeed
