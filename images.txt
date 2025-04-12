@@ -3,5 +3,8 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
+# 测试安装成功
+hello-world
+
 # openlitespeed 仅 server，不含 wordpress
 litespeedtech/openlitespeed
