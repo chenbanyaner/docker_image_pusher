@@ -11,3 +11,6 @@ litespeedtech/openlitespeed
 
 # redis 7.4.2
 redis:7.4.2
+
+# ubuntu
+ubuntu
