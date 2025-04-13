@@ -3,9 +3,6 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-# 测试安装成功
-hello-world
-
 # openlitespeed 仅 server，不含 wordpress
 litespeedtech/openlitespeed
 
@@ -14,3 +11,6 @@ redis:7.4.2
 
 # ubuntu
 ubuntu
+
+# mysql
+mysql
