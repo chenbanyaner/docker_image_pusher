@@ -22,6 +22,9 @@ rabbitmq
 # elasticsearch
 elastic/elasticsearch
 
+# mongodb
+mongodb/mongodb-community-server
+
 # wordpress
 wordpress
 
