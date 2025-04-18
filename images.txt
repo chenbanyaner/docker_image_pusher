@@ -19,6 +19,8 @@ mysql:5.7
 # elastic
 elasticsearch
 
+# rabbitmq
+rabbitmq
 
 # wordpress
 wordpress
