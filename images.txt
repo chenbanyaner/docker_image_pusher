@@ -14,6 +14,7 @@ ubuntu
 
 # mysql
 mysql
+mysql:5.7
 
 # registry
 registry
