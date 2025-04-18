@@ -16,6 +16,9 @@ ubuntu
 mysql
 mysql:5.7
 
+# elastic
+elasticsearch
+
 # wordpress
 wordpress
 
