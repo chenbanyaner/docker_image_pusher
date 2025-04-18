@@ -16,5 +16,8 @@ ubuntu
 mysql
 mysql:5.7
 
+# wordpress
+wordpress
+
 # registry
 registry
