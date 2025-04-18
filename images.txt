@@ -3,30 +3,10 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-# openlitespeed 仅 server，不含 wordpress
-litespeedtech/openlitespeed
-
-# redis 7.4.2
-redis:7.4.2
-
-# ubuntu
-ubuntu
-
-# mysql
-mysql
-mysql:5.7
-
 # rabbitmq
 rabbitmq
-
-# elasticsearch
-elastic/elasticsearch
 
 # mongodb
 mongodb/mongodb-community-server
 
-# wordpress
-wordpress
-
-# registry
-registry
+elastic/elasticsearch
