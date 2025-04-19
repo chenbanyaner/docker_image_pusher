@@ -4,3 +4,6 @@
 # --platform=linux/arm64 [镜像名称:版本号]
 
 litespeedtech/openlitespeed:1.8.2-lsphp83
+mariadb:11.4
+bitnami/phpmyadmin:5.2.2
+redis:alpine
