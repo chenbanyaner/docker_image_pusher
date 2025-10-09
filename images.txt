@@ -3,4 +3,4 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-node:22-alpine
+nginx:stable-alpine
