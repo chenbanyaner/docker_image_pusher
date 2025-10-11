@@ -3,6 +3,4 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-traefik:v3.4
-mysql:9.3
-phpmyadmin
+node:22
