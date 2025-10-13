@@ -3,4 +3,5 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-node:22
+python:3.14-alpine3.21
+germey/proxypool:20240630
