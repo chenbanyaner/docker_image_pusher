@@ -3,4 +3,4 @@
 #支持指定架构
 # --platform=linux/arm64 [镜像名称:版本号]
 
-docker pull litespeedtech/openlitespeed:1.8.4-lsphp84
+litespeedtech/openlitespeed:1.8.4-lsphp84
